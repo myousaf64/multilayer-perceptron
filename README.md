@@ -1,5 +1,7 @@
 # multilayer-perceptron
 
+[![CI](https://github.com/myousaf64/multilayer-perceptron/actions/workflows/ci.yml/badge.svg)](https://github.com/myousaf64/multilayer-perceptron/actions/workflows/ci.yml)
+
 ## What it is
 
 A feedforward neural network with backpropagation, written from scratch, trained to
